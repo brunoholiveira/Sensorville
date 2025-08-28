@@ -32,6 +32,7 @@ Estilo dark elegante e centralizado.
 Validação via HTML5 nativa.
 
 📂 Estrutura recomendada de pastas
+
 Sensorville-Forms/
 │
 ├── assets/
